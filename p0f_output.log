@@ -1,0 +1,12 @@
+[2024/12/04 08:52:01] mod=syn|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/12/04 08:52:01] mod=mtu|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/12/04 08:52:01] mod=syn+ack|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=srv|os=???|dist=1|params=none|raw_sig=4:63+1:0:1460:29184,7:mss,nop,nop,ts,nop,ws::0
+[2024/12/04 08:52:01] mod=mtu|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/12/04 08:52:01] mod=http request|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=cli|app=???|lang=none|params=none|raw_sig=1:Host,User-Agent,Accept=[*/*]:Connection,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:curl/7.68.0
+[2024/12/04 08:52:01] mod=http response|cli=172.17.0.2/33576|srv=54.180.158.188/80|subj=srv|app=Apache 2.x|lang=none|params=none|raw_sig=1:Date,Server,?Last-Modified,?ETag,Accept-Ranges=[bytes],?Content-Length,Content-Type:Connection,Keep-Alive:Apache/2.4.57 (Unix)
+[2024/12/04 08:54:38] mod=syn|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2024/12/04 08:54:38] mod=mtu|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2024/12/04 08:54:38] mod=syn+ack|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=srv|os=???|dist=1|params=none|raw_sig=4:63+1:0:1460:29184,7:mss,nop,nop,ts,nop,ws::0
+[2024/12/04 08:54:38] mod=mtu|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=srv|link=Ethernet or modem|raw_mtu=1500
+[2024/12/04 08:54:38] mod=http request|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=cli|app=???|lang=none|params=none|raw_sig=1:Host,User-Agent,Accept=[*/*]:Connection,Accept-Encoding,Accept-Language,Accept-Charset,Keep-Alive:curl/7.68.0
+[2024/12/04 08:54:38] mod=http response|cli=172.17.0.2/33466|srv=54.180.158.188/80|subj=srv|app=Apache 2.x|lang=none|params=none|raw_sig=1:Date,Server,?Last-Modified,?ETag,Accept-Ranges=[bytes],?Content-Length,Content-Type:Connection,Keep-Alive:Apache/2.4.57 (Unix)
